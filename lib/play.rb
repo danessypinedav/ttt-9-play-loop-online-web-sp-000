@@ -40,3 +40,4 @@ def play(board)
 if turn(board)
   
 end 
+end
